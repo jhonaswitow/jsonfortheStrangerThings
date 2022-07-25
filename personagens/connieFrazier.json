@@ -1,0 +1,143 @@
+{
+    "id": 0,
+    "name":"Connie Frazier",
+
+    "pt_br":{
+        "biographicalInformation": {
+            "name": "Connie Frazier",
+            "story":"Connie Frazier nasceu em algum lugar dos Estados Unidos na década de 1930 e frequentou a Hawkins High School, durante a sua adolescencia.",
+            "otherNames": null,
+            "nicknames": null,
+            "birthDate": "Década de 1930",
+            "demise": "12 de novembro de 1983",
+            "hobbies": null,
+            "currentAge": null,
+            "ageInSeasons": {
+              "t1": null,
+              "t2": null,
+              "t3": null,
+              "t4": null
+            },
+            "currentResidence": null,
+            "otherResidences": null,
+            "relatives": null,
+      
+            "otherRelationship": ["Martin Brenner"],
+            "relationshipStatus": null,
+            "occupations": [
+              "Agente especial"
+            ],
+            "status": "falecido",
+            "skills": null,
+            "curiosities":  [
+              "Apesar de ser uma Antagonista Secundária, ela teve uma quantidade bastante pequena de aparições nos episódios."
+              ]
+          },
+          "physicalInformation": {
+            "species": "Humana",
+            "genre": "Feminino",
+            "height": null,
+            "weight": null,
+            "eyeColor": "Azuis",
+            "hairColor": "Loiro"
+          },
+          "Interpretation": {
+            "representedBy": "Catherine Dyer",
+            "apparitions": [
+              "The morning show",
+              "Stranger Things",
+              "Um sonho possível",
+              "A lista Terminal"
+            ],
+            "socialNetworks": {
+              "facebook": null,
+              "Instagram": "https://www.instagram.com/andrewbenator/",
+              "Twitter": "https://twitter.com/therealcatdyer",
+              "TikTok": null
+            },
+            "awards": [
+              "Prêmio Emmy do Primetime: Melhor série de Não-Ficção"
+            ],
+            "patrimony": null,
+            "wage": "63",
+            "nationality": "New York",
+            "birthDate": "25 de novembro de 1958",
+            "occupations": [
+              "Atriz",
+              "Atriz de teatro",
+              "Produtora de televisão",
+              "Dubladora",
+              "Atora de cinema"
+            ]
+          }
+    },
+    "en_us":{
+      "biographicalInformation": {
+            "name": "Connie Frazier",
+            "story":"Connie Frazier was born somewhere in the United States in the 1930s and attended Hawkins High School during her teenage years.",
+            "otherNames": null,
+            "nicknames": null,
+            "birthDate": "decade of 1930",
+            "demise": "12 of november 1983",
+            "hobbies": null,
+            "currentAge": null,
+            "ageInSeasons": {
+              "t1": null,
+              "t2": null,
+              "t3": null,
+              "t4": null
+            },
+            "currentResidence": null,
+            "otherResidences": null,
+            "relatives": null,
+      
+            "otherRelationship": ["Martin Brenner"],
+            "relationshipStatus": null,
+            "occupations": [
+              "Agente especial"
+            ],
+            "status": "falecido",
+            "skills": null,
+            "curiosities":  [
+              "Despite being a Secondary Antagonist, she has had a fairly small amount of appearances in the episodes."
+              ]
+          },
+          "physicalInformation": {
+            "species": "Human",
+            "genre": "Feminine",
+            "height": null,
+            "weight": null,
+            "eyeColor": "Blues",
+            "hairColor": "Blonde"
+          },
+          "Interpretation": {
+            "representedBy": "Catherine Dyer",
+            "apparitions": [
+              "The morning show",
+              "Stranger Things",
+              "A possible dream",
+              "The Terminal list"
+            ],
+            "socialNetworks": {
+              "facebook": null,
+              "Instagram": "https://www.instagram.com/andrewbenator/",
+              "Twitter": "https://twitter.com/therealcatdyer",
+              "TikTok": null
+            },
+            "awards": [
+              "Primetime Emmy Award: Outstanding Non-Fiction Series"
+            ],
+            "patrimony": null,
+            "wage": "63",
+            "nationality": "New York",
+            "birthDate": "25 of november 1958",
+            "occupations": [
+              "Actress",
+              "theater actress",
+              "television producer",
+              "voice actress",
+              "movie actress"
+            ]
+          }
+    }
+}
