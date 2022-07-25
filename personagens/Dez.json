@@ -1,0 +1,169 @@
+{
+    "id": 0,
+    "name":"Dez",
+
+    "pt_br":{
+        "biographicalInformation": {
+            "name": "Dez",
+            "story":"Dez era um cobaia no Laboratório Hawkins. Antes de setembro de 1979, ele participou de diversos testes e experimentos ao lado de outros colegas do laboratório, incluindo Onze. Dez provavelmente foi uma criança sequestrada que foi levado para o Laboratório, não se sabe se ele tinha ou desenvolveu os poderes.",
+            "otherNames": null,
+            "nicknames": null,
+            "birthDate": "Década de 60",
+            "demise": "8 de setembro de 1979",
+            "hobbies": null,
+            "currentAge": null,
+            "ageInSeasons": {
+              "t1": null,
+              "t2": null,
+              "t3": null,
+              "t4": null
+            },
+            "currentResidence": "Laboratório Hawkins",
+            "otherResidences": null,
+            "relatives": null,
+      
+            "otherRelationship": [
+              "Dr. Martin Brenner",
+              "Um",
+              "Dois",
+              "Três",
+              "Quatro",
+              "Cinco",
+              "Seis",
+              "Sete",
+              "Oito",
+              "Nove",
+              "Onze",
+              "Doze",
+              "Treze",
+              "Catorze",
+              "Quinze",
+              "Dezesseis",
+              "Dezesete",
+              "Dezeito"
+            ],
+            "relationshipStatus": null,
+            "occupations": [
+              "Cobaia do Laboratório Hawkins"
+            ],
+            "status": "falecido",
+            "skills": null,
+            "curiosities":  [
+              "Apesar de seu papel menor na série, Dez se tornou popular entre alguns fãs."
+              ]
+          },
+          "physicalInformation": {
+            "species": "Humano",
+            "genre": "Masculino",
+            "height": null,
+            "weight": null,
+            "eyeColor": "Loiro castanho",
+            "hairColor": null
+          },
+          "Interpretation": {
+            "representedBy": "Christian Ganiere",
+            "apparitions": [
+              "Stranger Things",
+              "9-1-1",
+              "Days of Our Lives",
+              "Grey's Anatomy"
+            ],
+            "socialNetworks": {
+              "facebook": "https://pt-br.facebook.com/christianganiere/",
+              "Instagram": "https://www.instagram.com/christianganiere/",
+              "Twitter": "https://twitter.com/c_ganiere",
+              "TikTok": "https://www.tiktok.com/@christianganiere?lang=pt-BR"
+            },
+            "awards": null,
+            "patrimony": null,
+            "wage": "13",
+            "nationality": null,
+            "birthDate": null,
+            "occupations": [
+              "Ator infantil",
+            ]
+          }
+    },
+    "en_us":{
+      "biographicalInformation": {
+            "name": "Ten",
+            "story":"Dez was a test subject at Hawkins Laboratory. Before September 1979, he participated in several tests and experiments alongside other laboratory colleagues, including Eleven. Dez was most likely a kidnapped child who was taken to the Laboratory, it is unknown if he had or developed the powers.",
+            "otherNames": null,
+            "nicknames": null,
+            "birthDate": "decade of 60",
+            "demise": "8 of september 1979",
+            "hobbies": null,
+            "currentAge": null,
+            "ageInSeasons": {
+              "t1": null,
+              "t2": null,
+              "t3": null,
+              "t4": null
+            },
+            "currentResidence": "Hawkins lab",
+            "otherResidences": null,
+            "relatives": null,
+      
+            "otherRelationship": [
+              "Dr. Martin Brenner",
+              "One",
+              "Two",
+              "Three",
+              "Four",
+              "Fine",
+              "Six",
+              "Seven",
+              "Eight",
+              "Nine",
+              "Eleven",
+              "Twelve",
+              "Thirteen",
+              "Fourteen",
+              "Fifteen",
+              "Sixteen",
+              "Seventeen",
+              "eighteen"
+            ],
+            "relationshipStatus": null,
+            "occupations": [
+              "Hawkins Lab Guinea Pig"
+            ],
+            "status": "deceased",
+            "skills": null,
+            "curiosities":  [
+              "Despite his minor role in the series, Dez has become popular with some fans."
+              ]
+          },
+          "physicalInformation": {
+            "species": "Human",
+            "genre": "Male",
+            "height": null,
+            "weight": null,
+            "eyeColor": "brown blonde",
+            "hairColor": null
+          },
+          "Interpretation": {
+            "representedBy": "Christian Ganiere",
+            "apparitions": [
+              "Stranger Things",
+              "9-1-1",
+              "Days of Our Lives",
+              "Grey's Anatomy"
+            ],
+            "socialNetworks": {
+              "facebook": "https://pt-br.facebook.com/christianganiere/",
+              "Instagram": "https://www.instagram.com/christianganiere/",
+              "Twitter": "https://twitter.com/c_ganiere",
+              "TikTok": "https://www.tiktok.com/@christianganiere?lang=pt-BR"
+            },
+            "awards": null,
+            "patrimony": null,
+            "wage": "13",
+            "nationality": null,
+            "birthDate": null,
+            "occupations": [
+              "child actor",
+            ]
+          }
+    }
+}
