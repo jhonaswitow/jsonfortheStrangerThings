@@ -1,0 +1,113 @@
+{
+    "id": 0,
+    "name":"Cientista do Elevador",
+
+    "pt_br":{
+        "biographicalInformation": {
+            "name": "Cientista do Elevador",
+            "story":"O Cientista do Elevador foi um cientista que trabalhou no Laboratório Hawkins ele foi uma das primeiras vítimas do Monstro.",
+            "otherNames": null,
+            "nicknames": null,
+            "birthDate": null,
+            "demise": null,
+            "hobbies": null,
+            "currentAge": null,
+            "ageInSeasons": {
+              "t1": null,
+              "t2": null,
+              "t3": null,
+              "t4": null
+            },
+            "currentResidence": null,
+            "otherResidences": null,
+            "relatives": null,
+      
+            "otherRelationship": null,
+            "relationshipStatus": null,
+            "occupations": [
+              "Cientista"
+            ],
+            "status": "falecido",
+            "skills": null,
+            "curiosities":  null
+          },
+          "physicalInformation": {
+            "species": "Humano",
+            "genre": "Masculino",
+            "height": null,
+            "weight": null,
+            "eyeColor": null,
+            "hairColor": null
+          },
+          "Interpretation": {
+            "representedBy": "Andrew Benator",
+            "apparitions": null,
+            "socialNetworks": {
+              "facebook": null,
+              "Instagram": "https://www.instagram.com/andrewbenator/",
+              "Twitter": "https://twitter.com/andrewbenator",
+              "TikTok": null
+            },
+            "awards": null,
+            "patrimony": null,
+            "wage": null,
+            "nationality": null,
+            "birthDate": null,
+            "occupations": null
+          }
+    },
+    "en_us":{
+      "biographicalInformation": {
+            "name": "elevator scientist",
+            "story":"The Elevator Scientist was a scientist who worked at Hawkins Laboratory and was one of the Monster's first victims.",
+            "otherNames": null,
+            "nicknames": null,
+            "birthDate": null,
+            "demise": null,
+            "hobbies": null,
+            "currentAge": null,
+            "ageInSeasons": {
+              "t1": null,
+              "t2": null,
+              "t3": null,
+              "t4": null
+            },
+            "currentResidence": null,
+            "otherResidences": null,
+            "relatives": null,
+      
+            "otherRelationship": null,
+            "relationshipStatus": null,
+            "occupations": [
+              "Scientist"
+            ],
+            "status": "deceased",
+            "skills": null,
+            "curiosities":  null
+          },
+          "physicalInformation": {
+            "species": "Human",
+            "genre": "Male",
+            "height": null,
+            "weight": null,
+            "eyeColor": null,
+            "hairColor": null
+          },
+          "Interpretation": {
+            "representedBy": "Andrew Benator",
+            "apparitions": null,
+            "socialNetworks": {
+              "facebook": null,
+              "Instagram": "https://www.instagram.com/andrewbenator/",
+              "Twitter": "https://twitter.com/andrewbenator",
+              "TikTok": null
+            },
+            "awards": null,
+            "patrimony": null,
+            "wage": null,
+            "nationality": null,
+            "birthDate": null,
+            "occupations": null
+          }
+    }
+}
