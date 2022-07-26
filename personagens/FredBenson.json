@@ -1,0 +1,137 @@
+{
+    "id": 0,
+    "name":"Fred Benson",
+
+    "pt_br":{
+        "biographicalInformation": {
+            "name": "Fred Benson",
+            "story":"Em algum momento de 1985, Fred sofreu em um acidente de carro que matou outro aluno. Ele próprio sofreu lesões faciais neste acidente, que causou uma cicatriz na bochecha esquerda.",
+            "otherNames": null,
+            "nicknames": null,
+            "birthDate": "1967",
+            "demise": "22 de Março de 1986",
+            "hobbies": null,
+            "currentAge": "18",
+            "ageInSeasons": {
+              "t1": 18,
+              "t2": null,
+              "t3": null,
+              "t4": null
+            },
+            "currentResidence": "Hawkins, Indiana",
+            "otherResidences": null,
+            "relatives": null,
+      
+            "otherRelationship": [
+              "Nancy Wheeler"
+            ],
+            "relationshipStatus": "Solteiro",
+            "occupations": null,
+            "status": "Falecido",
+            "skills": null,
+            "curiosities":  [
+              "Fred foi a segunda vitima de Vecna, a primeira sendo Chrissy.",
+              "Ele foi o quinto adolescente a morrer na série (A primeira sendo Barbara Holland seguido por: Heather Holloway, Billy Hargrove e Chrissy Cunningham.)",
+              "Sua personalidade é muito semelhante a de Barbara Holland.",
+            ]
+          },
+          "physicalInformation": {
+            "species": "Humano",
+            "genre": "Masculino",
+            "height": null,
+            "weight": null,
+            "eyeColor": "Azuis",
+            "hairColor": "Marrom"
+          },
+          "Interpretation": {
+            "representedBy": "Logan Riley Bruner",
+            "apparitions": [
+              "26",
+              "27",
+              "28"
+            ],
+            "socialNetworks": {
+              "facebook": "https://m.facebook.com/LoganRileyBruner/?locale2=pt_BR",
+              "Instagram": "https://www.instagram.com/loganrileybruner/",
+              "Twitter": "https://twitter.com/loganrbruner",
+              "TikTok": "https://www.tiktok.com/@loganrileybruner?lang=pt-BR"
+            },
+            "awards": [
+             "Festigious International Film Festival Award for Best Horror Screenplay"
+            ],
+            "patrimony": null,
+            "wage": "25",
+            "nationality": "América do norte",
+            "birthDate": "26 de julho de 1997",
+            "occupations": [
+              "Ator"
+            ]
+          }
+    },
+    "en_us":{
+      "biographicalInformation": {
+            "name": "Fred Benson",
+            "story":"Sometime in 1985, Fred was in a car accident that killed another student. He himself suffered facial injuries in this accident, which left a scar on his left cheek.",
+            "otherNames": null,
+            "nicknames": null,
+            "birthDate": "1967",
+            "demise": "22 March 1986",
+            "hobbies": null,
+            "currentAge": "18",
+            "ageInSeasons": {
+              "t1": 18,
+              "t2": null,
+              "t3": null,
+              "t4": null
+            },
+            "currentResidence": "Hawkins, Indiana",
+            "otherResidences": null,
+            "relatives": null,
+      
+            "otherRelationship": [
+              "Nancy Wheeler"
+            ],
+            "relationshipStatus": "Single",
+            "occupations": null,
+            "status": "Deceased",
+            "skills": null,
+            "curiosities":  [
+              "Fred was Vecna's second victim, the first being Chrissy.",
+              "He was the fifth teenager to die in the series (The first being Barbara Holland followed by: Heather Holloway, Billy Hargrove and Chrissy Cunningham.)",
+              "Her personality is very similar to Barbara Holland's.",
+            ]
+          },
+          "physicalInformation": {
+            "species": "Human",
+            "genre": "Male",
+            "height": null,
+            "weight": null,
+            "eyeColor": "Blues",
+            "hairColor": "Brown"
+          },
+          "Interpretation": {
+            "representedBy": "Logan Riley Bruner",
+            "apparitions": [
+              "26",
+              "27",
+              "28"
+            ],
+            "socialNetworks": {
+              "facebook": "https://m.facebook.com/LoganRileyBruner/?locale2=pt_BR",
+              "Instagram": "https://www.instagram.com/loganrileybruner/",
+              "Twitter": "https://twitter.com/loganrbruner",
+              "TikTok": "https://www.tiktok.com/@loganrileybruner?lang=pt-BR"
+            },
+            "awards": [
+             "Festigious International Film Festival Award for Best Horror Screenplay"
+            ],
+            "patrimony": null,
+            "wage": "25",
+            "nationality": "North America",
+            "birthDate": "26 of july 1997",
+            "occupations": [
+              "Ator"
+            ]
+          }
+    }
+}
