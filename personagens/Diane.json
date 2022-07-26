@@ -1,0 +1,125 @@
+{
+    "id": 0,
+    "name":"Diane",
+
+    "pt_br":{
+        "biographicalInformation": {
+            "name": "Diane",
+            "story":"Em 1969, Diane chegou a Hawkins, Indiana e conheceu Jim Hopper . Um romance floresceu entre os dois logo depois. Em 1971, eles tiveram uma filha chamada Sara . Jim finalmente convenceu Diane a se mudar de Hawkins, o que levou sua mudança para Nova York em 1972.",
+            "otherNames": "Diane Hopper",
+            "nicknames": null,
+            "birthDate": null,
+            "demise": null,
+            "hobbies": null,
+            "currentAge": null,
+            "ageInSeasons": {
+              "t1": null,
+              "t2": null,
+              "t3": null,
+              "t4": null
+            },
+            "currentResidence": "Nova York",
+            "otherResidences": null,
+            "relatives": [
+              "Jim Hopper",
+              "Bill"
+            ],
+      
+            "otherRelationship": null,
+            "relationshipStatus": "Casada",
+            "occupations": null,
+            "status": "vivo",
+            "skills": null,
+            "curiosities":  null
+          },
+          "physicalInformation": {
+            "species": "Humana",
+            "genre": "Feminino",
+            "height": null,
+            "weight": null,
+            "eyeColor": "Azuis",
+            "hairColor": "Loiro"
+          },
+          "Interpretation": {
+            "representedBy": "Jerri Tubbs",
+            "apparitions": [
+              "5",
+              "8"
+            ],
+            "socialNetworks": {
+              "facebook": null,
+              "Instagram": "https://www.instagram.com/jerritubbs/",
+              "Twitter": "https://twitter.com/jerritubbs",
+              "TikTok": null
+            },
+            "awards": null,
+            "patrimony": null,
+            "wage": null,
+            "nationality": "América do norte",
+            "birthDate": "1998",
+            "occupations": [
+              "Atriz"
+            ]
+          }
+    },
+    "en_us":{
+      "biographicalInformation": {
+            "name": "Diane",
+            "story":"In 1969, Diane arrived in Hawkins, Indiana and met Jim Hopper. A romance blossomed between the two soon after. In 1971, they had a daughter named Sara. Jim eventually convinced Diane to move from Hawkins, which led to her moving to New York in 1972.",
+            "otherNames": "Diane Hopper",
+            "nicknames": null,
+            "birthDate": null,
+            "demise": null,
+            "hobbies": null,
+            "currentAge": null,
+            "ageInSeasons": {
+              "t1": null,
+              "t2": null,
+              "t3": null,
+              "t4": null
+            },
+            "currentResidence": "New York",
+            "otherResidences": null,
+            "relatives": [
+              "Jim Hopper",
+              "Bill"
+            ],
+      
+            "otherRelationship": null,
+            "relationshipStatus": "Married",
+            "occupations": null,
+            "status": "Live",
+            "skills": null,
+            "curiosities":  null
+          },
+          "physicalInformation": {
+            "species": "Human",
+            "genre": "Feminine",
+            "height": null,
+            "weight": null,
+            "eyeColor": "Blues",
+            "hairColor": "Blonde"
+          },
+          "Interpretation": {
+            "representedBy": "Jerri Tubbs",
+            "apparitions": [
+              "5",
+              "8"
+            ],
+            "socialNetworks": {
+              "facebook": null,
+              "Instagram": "https://www.instagram.com/jerritubbs/",
+              "Twitter": "https://twitter.com/jerritubbs",
+              "TikTok": null
+            },
+            "awards": null,
+            "patrimony": null,
+            "wage": null,
+            "nationality": "North America",
+            "birthDate": "1998",
+            "occupations": [
+              "Actress"
+            ]
+          }
+    }
+}
