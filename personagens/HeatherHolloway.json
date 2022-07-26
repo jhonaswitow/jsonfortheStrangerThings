@@ -1,0 +1,157 @@
+{
+    "id": 0,
+    "name":"Heather Holloway",
+
+    "pt_br":{
+        "biographicalInformation": {
+            "name": "Heather Holloway",
+            "story":"Heather Holloway era filha de Tom e Janet Holloway . Nascida em 1967, ela foi provavelmente criada em Hawkins, Indiana, durante a maior parte de sua vida. Durante o verão de 1985, Heather tornou-se salva-vidas na Hawkins Piscina Comunitária , onde se tornou colega de trabalho de Billy Hargrove .",
+            "otherNames": null,
+            "nicknames": null,
+            "birthDate": "1967",
+            "demise": "04 de julho de 1985",
+            "hobbies": null,
+            "currentAge": "18",
+            "ageInSeasons": {
+              "t1": 18,
+              "t2": null,
+              "t3": null,
+              "t4": null
+            },
+            "currentResidence": "Hawkins, Indiana",
+            "otherResidences": null,
+            "relatives": [
+              "Janet Holloway",
+              "Tom Holloway"
+            ],
+      
+            "otherRelationship": [
+              "Billy Hargrove",
+              "Nancy Wheeler"
+            ],
+            "relationshipStatus": "Solteiro",
+            "occupations": [
+              "Estudante na Hawkins High School",
+              "Salva-vidas"
+            ],
+            "status": "Falecida",
+            "skills": null,
+            "curiosities":  [
+              "Heather é a segunda adolescente a morrer na série; a primeira sendo Barbara Holland .",
+              "É possível que Heather conheça Nancy Wheeler, porque Nancy começou a trabalhar para seu pai em 1985, ou se conheceram na Hawkins High School .",
+              "Heather é a primeira antagonista a permitir que as pessoas mais próximas a ela (seus pais) sejam mortas enquanto ela os levava para o Devorador de Mentes para serem controlados e depois mortos.",
+            ]
+          },
+          "physicalInformation": {
+            "species": "Humana",
+            "genre": "Feminino",
+            "height": null,
+            "weight": null,
+            "eyeColor": null,
+            "hairColor": "Castanho"
+          },
+          "Interpretation": {
+            "representedBy": "Francesca Reale",
+            "apparitions": [
+              "18",
+              "19",
+              "20",
+              "21",
+              "22",
+              "23"
+            ],
+            "socialNetworks": {
+              "facebook": null,
+              "Instagram": "https://www.instagram.com/francescareale/",
+              "Twitter": "https://twitter.com/franlreale",
+              "TikTok": "https://www.tiktok.com/@.francescareale"
+            },
+            "awards": [
+             "Outstanding Performance by an Ensemble in a Drama Series"
+            ],
+            "patrimony": null,
+            "wage": "25",
+            "nationality": "Los Angeles, California",
+            "birthDate": "23 de agosto de 1994",
+            "occupations": [
+              "Atora"
+            ]
+          }
+    },
+    "en_us":{
+      "biographicalInformation": {
+            "name": "Heather Holloway",
+            "story":"Heather Holloway was the daughter of Tom and Janet Holloway. Born in 1967, she was likely raised in Hawkins, Indiana for most of her life. During the summer of 1985, Heather became a lifeguard at Hawkins Community Pool, where she became co-worker with Billy Hargrove.",
+            "otherNames": null,
+            "nicknames": null,
+            "birthDate": "1967",
+            "demise": "04 of july 1985",
+            "hobbies": null,
+            "currentAge": "18",
+            "ageInSeasons": {
+              "t1": 18,
+              "t2": null,
+              "t3": null,
+              "t4": null
+            },
+            "currentResidence": "Hawkins, Indiana",
+            "otherResidences": null,
+            "relatives": [
+              "Janet Holloway",
+              "Tom Holloway"
+            ],
+      
+            "otherRelationship": [
+              "Billy Hargrove",
+              "Nancy Wheeler"
+            ],
+            "relationshipStatus": "Solteiro",
+            "occupations": [
+              "Student at Hawkins High School",
+              "Saves lives"
+            ],
+            "status": "Falecida",
+            "skills": null,
+            "curiosities":  [
+              "Heather is the second teenager to die in the series; the first being Barbara Holland.",
+              "It is possible that Heather knows Nancy Wheeler, because Nancy started working for her father in 1985, or they met at Hawkins High School.",
+              "Heather is the first antagonist to allow those closest to her (her parents) to be killed as she takes them to the Mind Flayer to be controlled and then killed.",
+            ]
+          },
+          "physicalInformation": {
+            "species": "Human",
+            "genre": "Feminine",
+            "height": null,
+            "weight": null,
+            "eyeColor": null,
+            "hairColor": "Brown"
+          },
+          "Interpretation": {
+            "representedBy": "Francesca Reale",
+            "apparitions": [
+              "18",
+              "19",
+              "20",
+              "21",
+              "22",
+              "23"
+            ],
+            "socialNetworks": {
+              "facebook": null,
+              "Instagram": "https://www.instagram.com/francescareale/",
+              "Twitter": "https://twitter.com/franlreale",
+              "TikTok": "https://www.tiktok.com/@.francescareale"
+            },
+            "awards": [
+             "Outstanding Performance by an Ensemble in a Drama Series"
+            ],
+            "patrimony": null,
+            "wage": "25",
+            "nationality": "Los Angeles, California",
+            "birthDate": "23 of august 1994",
+            "occupations": [
+              "Actor"
+            ]
+          }
+    }
+}
